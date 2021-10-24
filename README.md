@@ -208,7 +208,7 @@ Visit My Portfolio:[Here](https://gianlucavenditti.com/)
 * []()
 -->
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 
