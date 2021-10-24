@@ -1,8 +1,5 @@
 <div id="top"></div>
 
-
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -35,7 +32,7 @@
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/github_username/repo_name">View Updated Version of the project</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
@@ -52,20 +49,9 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -76,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://venditti-ecom-demo.herokuapp.com/#/)
 
 
 <!--
@@ -144,7 +130,7 @@ This is an example of how to list things you need to use the software and how to
 Django x E-commerce website with payment integration and also the ability for users to shop as a guest or a registered user. Users are able to visit the site, shop around add items to carts without ever having to make an account. And then eventually at checkout, you would not need to register. Along with the ability for users to create an account and shop as registered user. The purpose of this project was learning to create a Django project and becoming familiar with core concepts and working with the back-end framework. Over the next few months I will keep adding to this project.
 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://docs.djangoproject.com/en/3.2/)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
